@@ -1,7 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Roberto Negrete</h1>
 
----
-
 <h3 align="center">🛠️ Tecnologías que uso</h3>
 
 <p align="center">
