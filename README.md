@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Roberto Negrete</h1>
 
-p align="center">
+<p align="center">
   <img src="https://github.com/Rober160/Rober160/blob/output/github-metrics.svg" />
 </p>
 
