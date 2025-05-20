@@ -2,6 +2,7 @@
 
 ---
 
+<p align="center"
 ### 🛠️ Tecnologías que uso
 
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=fff)
@@ -10,3 +11,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4AAA?style=flat&logo=n8n&logoColor=white)
+</p>
