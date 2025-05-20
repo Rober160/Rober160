@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/-n8n-EA4AAA?style=flat&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
