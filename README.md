@@ -1,16 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Roberto Negrete</h1>
 
-<h3 align="center">📚 Skills</h3>
-
-<p align="center">
-  <b>Shell Scripting</b><br>
-  <img src="https://progress-bar.dev/90/?title=Nivel" />
-  <br><br>
-  <b>Terraform</b><br>
-  <img src="https://progress-bar.dev/80/?title=Nivel" />
-  <br><br>
-  <b>n8n</b><br>
-  <img src="https://progress-bar.dev/85/?title=Nivel" />
+p align="center">
+  <img src="https://github.com/Rober160/Rober160/blob/output/github-metrics.svg" />
 </p>
 
 <h3 align="center">🛠️ Tecnologías que uso</h3>
