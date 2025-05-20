@@ -1,5 +1,8 @@
 <h1 align="center">¡Hola! 👋 Soy Roberto Negrete</h1>
 
+<p align="center">
+  <img src="https://github.com/Rober160/Rober160/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 <h3 align="center">🛠️ Tecnologías que uso</h3>
 
