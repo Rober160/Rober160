@@ -2,7 +2,7 @@
 
 ---
 
-### 🛠️ Tecnologías que uso
+<h3 align="center">🛠️ Tecnologías que uso</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=fff" />
