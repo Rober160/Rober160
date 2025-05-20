@@ -1,17 +1,17 @@
 <h1 align="center">¡Hola! 👋 Soy Roberto Negrete</h1>
 
-<pre align="center">
-<span style="color: #00ff00;">$ whoami</span>
-<span>→ Administrador de Sistemas y Redes</span>
+<h3 align="center">📚 Skills</h3>
 
-<span style="color: #00ff00;">$ echo "Automatizo todo lo que toco"</span>
-<span>→ Automatizo todo lo que toco</span>
-
-<span style="color: #00ff00;">$ uname -a</span>
-<span>→ GNU/Linux usuario 6.1.0 #SysAdmin #Shell #Terraform</span>
-
-<span style="color: #00ff00;">$ exit</span>
-</pre>
+<p align="center">
+  <b>Shell Scripting</b><br>
+  <img src="https://progress-bar.dev/90/?title=Nivel" />
+  <br><br>
+  <b>Terraform</b><br>
+  <img src="https://progress-bar.dev/80/?title=Nivel" />
+  <br><br>
+  <b>n8n</b><br>
+  <img src="https://progress-bar.dev/85/?title=Nivel" />
+</p>
 
 <h3 align="center">🛠️ Tecnologías que uso</h3>
 
