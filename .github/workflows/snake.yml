@@ -2,7 +2,7 @@ name: 🐍 Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "* * * * *" # Cada día a medianoche
+    - cron: "0 0 * * *" # Cada día a medianoche
   workflow_dispatch:
 
 jobs:
